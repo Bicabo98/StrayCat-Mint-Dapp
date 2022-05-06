@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xf9dF849E68C74C42f896c72a6e3A106dE050Bb74",
+  "SCAN_LINK": "https://polygonscan.com/token/0xf9df849e68c74c42f896c72a6e3a106de050bb74",
+  "NETWORK": {
+    "NAME": "Polygon Mainnet",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Schrodinger Cat",
+  "SYMBOL": "SchrodingerCatNFT",
+  "MAX_SUPPLY": 1250,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/schrodingercatnft",
+  "SHOW_BACKGROUND": false
+}
